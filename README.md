@@ -3,7 +3,7 @@
   <br />
   <br />
 
-  <h2 align="center">BusNavi- Business Agency Website</h2>
+  <h2 align="center">BusNavi (Under Construction)</h2>
 
   BusNavi is a fully responsive business agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
